@@ -1,7 +1,4 @@
-# Brenda 
-Brenda - The World's Work Marketplace. I created this inspired by the upwork freelance marketplace
 
-#### Watch the live: https://brenda-sooty.vercel.app/
 
 ### How to run 💻
 Please follow the below instructions to run this project in your machine:
